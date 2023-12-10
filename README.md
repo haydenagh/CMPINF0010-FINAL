@@ -21,3 +21,7 @@ A dataset of Fire Incidents which contain incident location.
 ### [Playground equipment](https://data.wprdc.org/dataset/playground-equipment/resource/e39ef76e-0a11-47c8-a86f-a37f55db7a2b):
 
 A dataset of playground equipment in Pittsburgh, Pennsylvania.
+
+# About:
+
+Our repository contains information about the city of Pittsburgh, Pennsylvania and draws a conclusion on the safest neighborhood within the city by using data abstraction to embolden our arguments.
