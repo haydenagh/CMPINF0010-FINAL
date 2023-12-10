@@ -4,8 +4,9 @@
 
 # Members:
 
--Hayden Goughenour-Hughes, hag73@pitt.edu
--Dheyab Alshehhi, TAA115@pitt.edu
+#### -Hayden Goughenour-Hughes, hag73@pitt.edu
+
+#### -Dheyab Alshehhi, TAA115@pitt.edu
 
 # Datasets:
 
