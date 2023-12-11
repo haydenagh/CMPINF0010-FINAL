@@ -1,0 +1,28 @@
+*Potential Data Sets*
+Arrest Data: 
+https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f
+
+Fire Incidents:
+https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
+
+Playground equipment:
+https://data.wprdc.org/dataset/playground-equipment/resource/e39ef76e-0a11-47c8-a86f-a37f55db7a2b
+
+
+
+
+All can be sorted by Neighborhood.
+In the arrest databaes, you can look up certain crimes commited. 2707 is the penal code of "Propulsion of missiles"...
+
+We can create a story such as, "We first ranked the neighborhoods based on arrest data. Who had the most arrests? Then, we found the neighboorhoods with the most incidents
+of penal code 2707: Propulsion of missiles. We have such concluded that the propulsion of missiles is the highest ranked crime and we should probably avoid the neighboorhood with 
+the most incidents.
+
+Once we found some potential non-missile friendly neighborhoods, we asked ourselves, 'If I were to buy a house, I probably don't want it to burn down.' So, we decided to look into 
+the pittsburgh Fire Incidents database and plotted it with the data collected from the neighborhoods with the missile incidents. The neighborhoods with the highest rates of fire incidents
+likely have some arsonists.
+
+Once we have selected out a few neighborhoods, the main question arises: "Where am I to start a family?" You can't have kids without a playground. So, we examined the playground equipment
+data set for which neighborhood has the most playground equipment."
+
+or something. I'm not entirely sold on the last part, but I think the first two are sort of funny
